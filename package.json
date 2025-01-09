@@ -20,6 +20,7 @@
     "hsv color picker"
   ],
   "main": "src/index.js",
+  "types": "types",
   "files": [
     "src/*"
   ],
