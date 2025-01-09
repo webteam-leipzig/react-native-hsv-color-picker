@@ -22,7 +22,8 @@
   "main": "src/index.js",
   "types": "types",
   "files": [
-    "src/*"
+    "src/*",
+    "types.d.ts"
   ],
   "dependencies": {
     "chroma-js": "^2.1.0",
